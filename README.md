@@ -1,2 +1,1 @@
-# Exercise-1-Task-1
-A SIMPLE PROGRAM OF CPP USING THE CONCEPTS OF OOP
+# dsa assignment 1
